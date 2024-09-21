@@ -1,0 +1,9 @@
+{
+    "name": "codypro/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Codypro\\PhpMvc\\": "src/"
+        }
+    },
+    "require": {}
+}
